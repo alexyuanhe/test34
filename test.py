@@ -1,1 +1,2 @@
-num =123
+num =12
+name = 'yuanhe'         
